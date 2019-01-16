@@ -50,7 +50,7 @@
         "typescript": "^3.2.2"
     },
     "dependencies": {
-        "gojs": "^1.8.35"
+        "gojs": "^2.0.0"
     },
     "peerDependencies": {
         "react": "16.x",
